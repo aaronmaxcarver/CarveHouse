@@ -28,9 +28,6 @@ a teardrop trailer that I built in college that was pretty cool
 # Walls
 ![IMG_9877](https://user-images.githubusercontent.com/59704103/225810979-967d4b36-da3f-4974-8711-4c6f82054b09.JPG)
 
-# Cabinets 
-![cabinets](https://user-images.githubusercontent.com/59704103/225811033-974ce6a9-1bc6-45fc-97d3-0e9e833b272c.JPG)
-
 # Galley and AC
 ![galley and ac](https://user-images.githubusercontent.com/59704103/225810695-5ff24fc5-d2a7-483b-9507-482ae7677b67.JPG)
 
@@ -39,6 +36,9 @@ a teardrop trailer that I built in college that was pretty cool
 
 # Interior with hatch
 ![interior with hatch](https://user-images.githubusercontent.com/59704103/225810746-2b20264f-1ad8-4548-a0c6-6613f307e0b7.JPG)
+
+# Cabinets 
+![cabinets](https://user-images.githubusercontent.com/59704103/225811033-974ce6a9-1bc6-45fc-97d3-0e9e833b272c.JPG)
 
 # Towing
 ![towing](https://user-images.githubusercontent.com/59704103/225810666-884e0be9-3176-4897-a335-d7d6c124b74d.JPG)
