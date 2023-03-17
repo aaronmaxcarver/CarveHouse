@@ -13,7 +13,7 @@ a teardrop trailer that I built in college that was pretty cool
 # Interior frame, proper height 
 ![interior frame](https://user-images.githubusercontent.com/59704103/225810585-f2f39aed-81c8-469f-919d-a794cb681ccf.JPG)
 
-# Pocker hole joinery is cool
+# Pocket hole joinery is cool
 ![pocket hole joinery is cool](https://user-images.githubusercontent.com/59704103/225813688-d1658eb1-94ff-455e-aba2-75c06ec1dfe4.JPG)
 
 # Cabinet frame
