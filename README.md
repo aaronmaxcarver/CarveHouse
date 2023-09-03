@@ -7,7 +7,7 @@ a teardrop trailer that I built in college that was pretty cool
 # Trailer and floor (square!)
 ![trailer and floor](https://user-images.githubusercontent.com/59704103/225810521-41a23980-dc6b-487e-97b3-2fb5aee015ae.JPG)
 
-# Runtime error
+# Compile-time error
 ![IMG_9809](https://user-images.githubusercontent.com/59704103/225813534-df07fb77-52a4-45ae-ad98-6bd0331e8755.JPG)
 
 # Interior frame, proper height 
